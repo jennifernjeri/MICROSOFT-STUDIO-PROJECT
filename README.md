@@ -114,8 +114,9 @@ Other factors besides budget changes may also influence the resulting profit cha
 
 # Select seasoned crew members per genre
 
-Choosing the appropriate crew tailored to each genre will provide Microsoft with a valuable headstart in the movie industry. 
-To aid in this process, I have attached a PDF containing a comprehensive list of writers and directors per respective genres. 
+* Choosing the appropriate crew tailored to each genre will provide Microsoft with a valuable headstart in the movie industry. 
+* To aid in this process, I have attached a containing a comprehensive list of writers and directors per respective genres (DIRECTORS AND WRITERS PER GENRE.pdf). 
+
 By leveraging this valuable resource, Microsoft can align its productions with skilled professionals who excel in delivering captivating narratives for each specific genre, setting the stage for a successful foray into the world of filmmaking.
 
 # RECOMMENDATIONS
