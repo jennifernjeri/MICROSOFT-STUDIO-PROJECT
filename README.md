@@ -15,8 +15,9 @@ Microsoft, witnessing the success of major companies producing original video co
 
 # Understand the film industry
 
-![MARKETSHARE REVENUE](https://github.com/jennifernjeri/MICROSOFT-STUDIO-PROJECT/assets/25104993/338bd96a-3f36-4ebf-8f6b-26722cd09f09)
+TOP TEN STUDIOS WITH THE LARGEST MARKETSHARE (REVENUE)
 
+![MARKETSHARE REVENUE](https://github.com/jennifernjeri/MICROSOFT-STUDIO-PROJECT/assets/25104993/338bd96a-3f36-4ebf-8f6b-26722cd09f09)
 
 Observation:
 1. BV (Buena Vista by Disney): Total Revenue - $44.25 billion, Percentage Market Share - 16.10%
@@ -26,6 +27,7 @@ Observation:
 5. Sony: Total Revenue - $22.48 billion, Percentage Market Share - 8.18%
 6. Par. (Paramount Pictures): Total Revenue - $19.69 billion, Percentage Market Share - 7.16%
 
+TOP TEN STUDIOS WITH THE LARGEST MARKETSHARE (MOVIE PRODUCTION)
 
 ![market share 2](https://github.com/jennifernjeri/MICROSOFT-STUDIO-PROJECT/assets/25104993/697bd60d-6b6d-443b-96b4-df62744bc4cd)
 
@@ -36,6 +38,8 @@ Observation:
 4. Sony Pictures (Sony): Number of Movies: 109, Total Revenue: $22.48252 billion
 5. Buena Vista (BV): Number of Movies: 106, Total Revenue: $44.25168 billion
 6. Lionsgate Films (LGF): Number of Movies: 102, Total Revenue: $8.885583 billion
+ 
+VISUALIZE THE DIFFERENCES IN MARKETSHARES
 
 ![TOP10STUDIOS](https://github.com/jennifernjeri/MICROSOFT-STUDIO-PROJECT/assets/25104993/108aa875-40fe-4310-b856-d1cb48113c46)
 
@@ -49,6 +53,8 @@ This is an indication that a studio does not really have to generate more movies
 
 Inasmuch as a higher production of movies yields to higher revenue, blindly increasing movie production is not necessarily a guaranteed strategy for generating higher revenue. Factors such as film quality, marketing efforts, audience preferences, and competition within the industry also play crucial roles in determining revenue.
 
+RELATIONSHIP BETWEEN THE NUMBER OF MOVIES  PRODUCED AND TOTAL REVENUE
+
 ![CORRELATION](https://github.com/jennifernjeri/MICROSOFT-STUDIO-PROJECT/assets/25104993/f058cd87-c0be-4dfb-8c3e-3cc2bf694bb8)
 
 Observation:
@@ -59,6 +65,8 @@ On the other hand, it is noteworthy that only six studios, out of those that pro
 
 # Explore genre ratings, popularity and runtime
 
+TOP-RATED GENRES (TOP-TEN)
+
 ![RATINGS](https://github.com/jennifernjeri/MICROSOFT-STUDIO-PROJECT/assets/25104993/7dcf5ed3-b1c3-41f6-b0ac-f0d630fc99b1)
 
 Observation:
@@ -66,6 +74,8 @@ Observation:
 * Documentaries, Reality TV, Biography, History and News genres have one thing in common: they tell the personal stories of individuals, highlighting their struggles, triumphs, and contributions. 
 
 These human stories can evoke strong emotions and create a powerful connection with viewers, leading to higher ratings.
+
+AVERAGE RUNTIME OF TOP RATED GENRES (TOP -TEN)
 
 ![RUNTIME](https://github.com/jennifernjeri/MICROSOFT-STUDIO-PROJECT/assets/25104993/d7bb3cdd-3a40-4207-b0cb-b3ac4997c5a5)
 
@@ -75,6 +85,7 @@ Observation:
 
 Microsoft now understands audience preferences and expectations with regard to runtime in different high-rated genres.
 
+POPULARITY OF TOP TEN GENRES BY AVERAGE NUMBER OF VOTES
 
 ![NUMBER OF VOTES](https://github.com/jennifernjeri/MICROSOFT-STUDIO-PROJECT/assets/25104993/6717c864-4a49-40ef-a875-889975aa839e)
 
@@ -83,6 +94,8 @@ Observation:
 * On the other hand, genres like "Comedy, Documentary, Fantasy" and "Biography, History, Music" have lower average numbers of votes, suggesting they might be less popular among viewers.
 
 It's important to note that the number of votes is an indication of a movie's popularity and audience engagement. However, the sample size for each genre combination may vary, which can affect the average number of votes.
+
+RELATIONSHIP BETWEEN MOVIE RATINGS, RUNTIME AND NUMBER OF VOTES
 
 ![HEAT MAP](https://github.com/jennifernjeri/MICROSOFT-STUDIO-PROJECT/assets/25104993/f94f1232-01cb-429c-85fe-c843a9784e2a)
 
@@ -94,6 +107,8 @@ Observation:
 
 # Analyse the profitability of the production of sequels
 
+PROFITABILITY OF PRODUCTION OF SEQUELS
+
 ![LINEGRAPH](https://github.com/jennifernjeri/MICROSOFT-STUDIO-PROJECT/assets/25104993/0e166da4-4968-482d-badb-faa1eb4966d5)
 
 Observation:
@@ -103,6 +118,7 @@ Observation:
 
 It is still a profitable venture since the sequels had an overall profit, only that some got less profit than the original film.
 
+RELATIONSHIP BETWEEN CHANGES IN BUDGET AND PROFIT IN SEQUELS
 
 ![SEQUELS](https://github.com/jennifernjeri/MICROSOFT-STUDIO-PROJECT/assets/25104993/5139a2c2-702f-44ad-bcf8-975fab70f0ee)
 
